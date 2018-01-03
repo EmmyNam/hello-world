@@ -1,5 +1,4 @@
 # hello-world
-Tutorial
 
 Hello! My name is Emmy Nam.
 
